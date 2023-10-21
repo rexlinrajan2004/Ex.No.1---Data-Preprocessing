@@ -122,5 +122,3 @@ print(len(x_test))
 Thus we have successfully performed Data preprocessing in a data set downloaded from Kaggle
 ```
 
-## RESULT
-/Type your result here/
